@@ -1,0 +1,9 @@
+{
+  "name": "GridLayoutProjectCSS",
+  "version": "0.0.1",
+  "description": "Display Grid Layout System",
+  "main": "index.js",
+  "repository": "https://github.com/AlkanRena/GridLayoutProject.git",
+  "author": "Dawid Kubić <dawid.kubic@gmail.com>",
+  "license": "MIT"
+}
